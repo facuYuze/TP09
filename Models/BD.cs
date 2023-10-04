@@ -10,4 +10,10 @@ public class BD{
             return BD.Query<Usuario>(query).ToList();
         }
     }
+
+    public static List<Usuario> GuardarUsuario(email,contraseña){
+        using (SqlConnection BD = new SqlConnection(_connectionString)){
+        string querty 
+        }      
+    }
 }

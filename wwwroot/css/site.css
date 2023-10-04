@@ -19,3 +19,16 @@ footer {
   bottom: 0; 
   margin: 10px 0px 20px 0px;
 }
+.card{
+  background-color: #000d;
+  width: 30%;
+  text-align: center;
+  position: absolute;
+  top: 30%;
+  left: 35%;
+  align-items: center;
+  border-radius: 15px;
+  box-shadow: 10px 15px 5px #0003;
+  margin-top: 15%;
+
+}
